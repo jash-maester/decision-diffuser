@@ -47,3 +47,10 @@ outputs/
 
 # Paper demo gallery (not source / not needed to run)
 materials/
+
+# Local agent / editor config (not source)
+.claude/
+.vscode/
+.idea/
+.cursor/
+*.swp
